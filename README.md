@@ -4,7 +4,7 @@ This quickstart consists of a basic hasura project with a simple nodejs express 
 
 Follow along below to learn about how this quickstart works.
 
-## Prerequisites
+## Prerequisites/Requirements
 
 * Ensure that you have the [hasura cli](https://docs.hasura.io/0.15/manual/install-hasura-cli.html) tool installed on your system.
 
