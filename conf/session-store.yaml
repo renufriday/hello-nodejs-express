@@ -1,2 +1,3 @@
 # Kubernetes volume object for Redis session store
 volume: {{ cluster.metadata.sessionStore.volume|json }}
+glass: {{ cluster.metadata.sessionStore.volume|json }}
