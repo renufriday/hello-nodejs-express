@@ -12,10 +12,10 @@
 #
 # example-domain.com:
 #   ssl:
-#     type: LetsEncrypt
+#     type: LetsEncrypt 
 #     conf: {}
 
 # Example configurtaion for a domain without SSL
 #
 # example-domain.com:
-#   ssl: null
+#   ssl: True
